@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\bin\Debug\netcoreapp2.0\June29Practice2.deps.json
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\bin\Debug\netcoreapp2.0\June29Practice2.runtimeconfig.json
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\bin\Debug\netcoreapp2.0\June29Practice2.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\bin\Debug\netcoreapp2.0\June29Practice2.dll
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\bin\Debug\netcoreapp2.0\June29Practice2.pdb
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\obj\Debug\netcoreapp2.0\June29Practice2.csprojResolveAssemblyReference.cache
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\obj\Debug\netcoreapp2.0\June29Practice2.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\obj\Debug\netcoreapp2.0\June29Practice2.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\obj\Debug\netcoreapp2.0\June29Practice2.AssemblyInfo.cs
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\obj\Debug\netcoreapp2.0\June29Practice2.dll
+C:\Users\Owner\source\repos\June29Practice2\June29Practice2\obj\Debug\netcoreapp2.0\June29Practice2.pdb
